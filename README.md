@@ -34,7 +34,7 @@ A feature-rich command-line todo application built with **Test-Driven Developmen
 ## Installation
 
 ### Prerequisites
-- Python 3.9 or higher
+- Python 3.13 or higher
 - pip package manager
 
 ### Setup
