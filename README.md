@@ -2,7 +2,7 @@
 
 [![Tests](https://img.shields.io/badge/tests-158%20passing-brightgreen)](https://github.com/Malikasadjaved/Python-Todo-Cli-App)
 [![Coverage](https://img.shields.io/badge/coverage-51%25-yellow)](https://github.com/Malikasadjaved/Python-Todo-Cli-App)
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/python-3.13%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
 
